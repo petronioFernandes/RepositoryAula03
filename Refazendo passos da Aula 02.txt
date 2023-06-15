@@ -1,0 +1,10 @@
+git init
+git config --list
+git remote add origin "LinkDoRepositorio"
+git remote -v
+git branch -M main
+git status
+git add. ou git add<nomeDoArquivo.txt>
+git status
+git commit -m "Comentário para registro de atualizações ou descrição"
+git
