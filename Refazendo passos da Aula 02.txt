@@ -1,3 +1,4 @@
+Comandos da aula 02:
 git init
 git config --list
 git remote add origin "LinkDoRepositorio"
@@ -7,4 +8,9 @@ git status
 git add. ou git add<nomeDoArquivo.txt>
 git status
 git commit -m "Comentário para registro de atualizações ou descrição"
-git
+git status
+git push -u origin main
+
+Comandos da aula 03
+git branch PetronioAnalizer (Criação de uma branch com meu nome e função)
+git checkout PetronioAnalizer (Sai da branch anterior ou da main e entra na PetronioAnalizer)
